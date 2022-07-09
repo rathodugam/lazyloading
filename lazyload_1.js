@@ -1,5 +1,5 @@
 <script>
   
-  hello
+ console.log("scriptloded")
 
   </script>
